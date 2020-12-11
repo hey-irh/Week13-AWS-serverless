@@ -1,0 +1,22 @@
+{
+  "name": "hackathon_serverless-isapreet",
+  "version": "1.0.0",
+  "description": "Now that you've had a taste of deploying a serverless API to the cloud, it's time for you to get creative. For today's hackathon, your challenge is to make a RESTful API in AWS and provide data of your choosing in your lambda functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SchoolOfCode/hackathon_serverless-isapreet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/hackathon_serverless-isapreet/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/hackathon_serverless-isapreet#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
