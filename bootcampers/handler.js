@@ -64,7 +64,7 @@ module.exports.addItem = (event, context, callback) => {
     createdAt: new Date().toISOString(),
     name: reqBody.name,
     desiredRole: reqBody.desiredRole,
-    industry: reqBody.idustry,
+    industry: reqBody.industry,
   };
 
   return db
@@ -88,7 +88,7 @@ module.exports.updateItem = (event, context, callback) => {
     createdAt: new Date().toISOString(),
     name: reqBody.name,
     desiredRole: reqBody.desiredRole,
-    industry: reqBody.idustry,
+    industry: reqBody.industry,
   };
 
   return db
