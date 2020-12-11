@@ -1,0 +1,17 @@
+body {
+  font-family: "Langar", cursive;
+  background-image: url("https://shaktishiva.academy/wp-content/uploads/2020/02/desire.jpg");
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  background-color: red;
+  opacity: 0.5;
+  padding: 0.5em;
+  border-radius: 50%;
+}
